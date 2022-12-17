@@ -4,7 +4,7 @@
   + Maven Analytics Playground
 
 ##### Tools
-  + Microsoft SQL Server
+  + Microsoft SQL Server (Queries Attached)
   
 ##### Problem
  Investor wants to know which industry of Unicorn Companies to invest in.
